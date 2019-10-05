@@ -1,0 +1,66 @@
+body{
+background-color: #D6D1CD !important;
+}
+
+#banner{
+	background-image: url("images/banner.jpeg");
+	background-size: cover;
+	height: 700px;
+	display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0px 0px 30px;
+    margin-bottom: 50px;
+}
+
+.moebel{
+	border-color: #979B8D;
+	border: 5px solid #979B8D;
+	height: 250px;
+	width: 400px;
+}
+
+
+.schrift{
+	font-size: 25px;
+}
+
+.uschrift{
+	font-size: 40px;
+	margin-block-start: 0;
+	padding: 0px 30px;
+}
+
+.kategorie{
+	text-align: center;
+}
+
+.fab{
+	color: #B39C4D;
+	font-size: 20px;
+}
+
+.fab:hover {
+	font-size: 40px;
+}
+
+h1 {
+color: #B39C4D;
+font-family: 'Amatic SC', cursive;
+font-size: 90px;
+padding: 0px 30px;
+margin-block-end: 0;
+}
+
+h2 {
+color: #979B8D;
+font-family: 'Julius Sans One', sans-serif ;
+font-size: 70px !important;
+margin-block-end: 0;
+padding: 0px 30px;
+}
+p {
+color: #1C2321; 
+font-family:'Big Shoulders Text', cursive;
+font-size: 30px;
+}
